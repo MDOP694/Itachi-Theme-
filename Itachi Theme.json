@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "Dark・MD 3.0#4452",
+        "name": "Itachi Theme",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/MDOP694\/Itachi-Theme\/main\/Itachi%20Theme.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/892691932239761428\/893828092907360316\/Uchiha_Itachi_live_wallpaper.gif",
+        "overlay_alpha": 1,
+        "blur_radius": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/360420923956002826\/885670847484932178\/Inconsolata_SemiCondensed-Medium.ttf"
+    },
+    "simple_colors": {
+        "background": -49741562,
+        "background_secondary": -15190475
+    },
+    "colors": {
+        "brand_new_530": -149631569,
+        "primary_dark_200": -15825181,
+        "link": -15869633,
+        "primary_dark_300": -2494200,
+        "primary_dark_660": -8582120,
+        "primary_dark_800": -2071795,
+        "uikit_settings_item_text_color_dark": -10745117
+    },
+    "drawable_tints": {}
+}
